@@ -1,1 +1,0 @@
-& D:/Python/python.exe d:/BWT/week3/File_handling.py
